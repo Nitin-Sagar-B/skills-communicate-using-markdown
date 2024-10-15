@@ -5,3 +5,7 @@
 ``` javascript
 var future = "Sparkience!";
 ```
+
+- [ ] Research on GenAI
+- [ ] Augment and prototype
+- [ ] Deploy and Manage
